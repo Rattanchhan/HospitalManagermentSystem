@@ -1,0 +1,27 @@
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe.config
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).pdb
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.AssemblyReference.cache
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.Properties.Resources.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.GenerateResource.cache
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.CoreCompileInputs.cache
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe.config
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.AssemblyReference.cache
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.AllForm.Dashboard.resources
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.Form1.resources
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.Properties.Resources.resources
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.GenerateResource.cache
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.CoreCompileInputs.cache
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboard.resources
+C:\Users\chhan\OneDrive\Documents\C# Programming\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboardPage.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboard.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboardPage.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.LoginForm.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.ResetPasswordForm.resources
+C:\Users\R2992000\Documents\Education\Review\ADO.net\FinalProject(Hospital)\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageLoginPopUp.resources
