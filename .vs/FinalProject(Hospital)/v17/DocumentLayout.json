@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\FormLogin\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\formlogin\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\r2992000\\documents\\education\\review\\ado.net\\finalproject(hospital)\\finalproject(hospital)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:FinalProject(Hospital)\\FormLogin\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,70 +74,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "dashboardPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:02:24.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "dashboard.cs",
               "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
               "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
               "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
               "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAArwJYAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T18:42:39.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPasswordForm.cs",
-              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAArwBQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:28:42.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
-              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:47:50.576Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:48:20.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResetPasswordForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
-              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
-              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T18:33:22.573Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
               "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
@@ -145,7 +111,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:47:50.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\Program.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\Program.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:33:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:48:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:28:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:33:22.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MessageLoginPopUp.cs",
               "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
               "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
@@ -153,24 +180,22 @@
               "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T18:22:31.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T18:22:31.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MessageLoginPopUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
               "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
               "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs [Design]",
               "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:43:55.945Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-20T17:43:55.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\FormLogin\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.Designer.cs",
@@ -179,19 +204,6 @@
               "ViewState": "AQIAAG4AAAAAAAAAAAAQwHYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T18:37:51.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\Program.cs",
-              "RelativeDocumentMoniker": "FinalProject(Hospital)\\Program.cs",
-              "ToolTip": "C:\\Users\\R2992000\\Documents\\Education\\Review\\ADO.net\\FinalProject(Hospital)\\FinalProject(Hospital)\\Program.cs",
-              "RelativeToolTip": "FinalProject(Hospital)\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:33:47.585Z",
               "EditorCaption": ""
             }
           ]

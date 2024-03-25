@@ -649,9 +649,9 @@
             this.label28.Location = new System.Drawing.Point(76, 15);
             this.label28.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(102, 20);
+            this.label28.Size = new System.Drawing.Size(59, 20);
             this.label28.TabIndex = 0;
-            this.label28.Text = "Appointment";
+            this.label28.Text = "Report";
             this.label28.MouseClick += new System.Windows.Forms.MouseEventHandler(this.AppointmentPanelClick);
             // 
             // pictureBox7
@@ -698,9 +698,9 @@
             this.label27.Location = new System.Drawing.Point(76, 15);
             this.label27.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(84, 20);
+            this.label27.Size = new System.Drawing.Size(74, 20);
             this.label27.TabIndex = 0;
-            this.label27.Text = "Pharmacy";
+            this.label27.Text = "Payment";
             this.label27.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PharmacyPanelClick);
             // 
             // pictureBox6
@@ -747,9 +747,9 @@
             this.label15.Location = new System.Drawing.Point(76, 15);
             this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(44, 20);
+            this.label15.Size = new System.Drawing.Size(33, 20);
             this.label15.TabIndex = 0;
-            this.label15.Text = "Staff";
+            this.label15.Text = "Bill";
             this.label15.MouseClick += new System.Windows.Forms.MouseEventHandler(this.StaffPanelClick);
             // 
             // pictureBox18
@@ -1038,9 +1038,9 @@
             this.label13.Location = new System.Drawing.Point(76, 15);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(106, 20);
+            this.label13.Size = new System.Drawing.Size(87, 20);
             this.label13.TabIndex = 0;
-            this.label13.Text = "Departement";
+            this.label13.Text = "LabReport";
             this.label13.MouseClick += new System.Windows.Forms.MouseEventHandler(this.DepartementPanelClick);
             // 
             // pictureBox16
