@@ -13,7 +13,8 @@ namespace FinalProject_Hospital_.ResponsiveForm
 {
     public partial class MessageLoginPopUp : Form
     {
-        Form get;
+        public Form get;
+        public string reset;
         public MessageLoginPopUp(Form _get)
         {
             InitializeComponent();
@@ -22,11 +23,34 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void CloseButtonMouseClick(object sender, MouseEventArgs e)
         {
-            get.Hide();
-            ResponsiveForm.dashboard dasboard = new ResponsiveForm.dashboard();
+            if (reset == "reset")
+            {
+                get.Close();
+                OpenLoginForm(new FormLogin.LoginForm());
+            }
+            else
+            {
+                get.Hide();
+                OpenLoginForm(new ResponsiveForm.dashboard());
+            }
+        }
+        private void OpenLoginForm(Form form)
+        {
             Close();
-            dasboard.WindowState = FormWindowState.Maximized;
-            dasboard.Show();
+            form.WindowState = FormWindowState.Maximized;
+            form.Show();
+        }
+
+        private void MessageLoginPopUp_Load(object sender, EventArgs e)
+        {
+            if(reset== "reset")
+            {
+                label1.Text = "Password changed successfully!";
+                label1.Location = new Point(210, 200);
+                label2.Text = "Please login to your account again";
+                label2.Location = new Point(245, 237);
+                button1.Text = "Login";
+            }
         }
     }
 }

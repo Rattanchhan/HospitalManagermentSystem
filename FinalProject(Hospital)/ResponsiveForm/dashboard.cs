@@ -48,7 +48,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
         }
         private void OpenForm(Form childForm, Panel panel)
         {
-            if (activeForm != null) activeForm.Close();
+            activeForm?.Close();
             activeForm = childForm;
             childForm.FormBorderStyle = FormBorderStyle.None;
             childForm.Dock = DockStyle.Fill;
@@ -150,5 +150,9 @@ namespace FinalProject_Hospital_.ResponsiveForm
             login.WindowState = FormWindowState.Maximized;
             login.Show();
         }
+    }
+    public class Header
+    {
+        
     }
 }

@@ -16,7 +16,7 @@ namespace FinalProject_Hospital_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ResponsiveForm.dashboard());
+            Application.Run(new FormLogin.LoginForm());
         }
     }
 }
