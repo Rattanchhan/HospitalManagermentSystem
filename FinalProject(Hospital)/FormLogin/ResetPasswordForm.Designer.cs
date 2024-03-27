@@ -31,8 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ResetPasswordForm));
             this.newPasswordBox = new System.Windows.Forms.TextBox();
             this.minimizePanel = new System.Windows.Forms.Panel();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.minimize = new System.Windows.Forms.PictureBox();
+            this.resize = new System.Windows.Forms.PictureBox();
             this.resizePanel = new System.Windows.Forms.Panel();
             this.close = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -46,6 +46,10 @@
             this.oldPasswordTexbox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label8 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
             this.confirmPasswordTextBox = new System.Windows.Forms.TextBox();
@@ -56,8 +60,8 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.minimizePanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.minimize)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.resize)).BeginInit();
             this.resizePanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
             this.panel4.SuspendLayout();
@@ -66,6 +70,9 @@
             this.panel5.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel3.SuspendLayout();
+            this.flowLayoutPanel1.SuspendLayout();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel7.SuspendLayout();
             this.panel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -91,46 +98,55 @@
             // minimizePanel
             // 
             this.minimizePanel.BackColor = System.Drawing.Color.Transparent;
-            this.minimizePanel.Controls.Add(this.pictureBox3);
+            this.minimizePanel.Controls.Add(this.minimize);
             this.minimizePanel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.minimizePanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.minimizePanel.Location = new System.Drawing.Point(3, 3);
             this.minimizePanel.Name = "minimizePanel";
             this.minimizePanel.Size = new System.Drawing.Size(55, 39);
             this.minimizePanel.TabIndex = 22;
+            this.minimizePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.MinimizeButtonMouseClick);
+            this.minimizePanel.MouseLeave += new System.EventHandler(this.MinimizeButtonMouseLeave);
+            this.minimizePanel.MouseHover += new System.EventHandler(this.MinimizeButtonMouseHover);
             // 
-            // pictureBox3
+            // minimize
             // 
-            this.pictureBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox3.ErrorImage = null;
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(20, 11);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(15, 20);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 19;
-            this.pictureBox3.TabStop = false;
+            this.minimize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.minimize.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.minimize.ErrorImage = null;
+            this.minimize.Image = ((System.Drawing.Image)(resources.GetObject("minimize.Image")));
+            this.minimize.Location = new System.Drawing.Point(20, 11);
+            this.minimize.Margin = new System.Windows.Forms.Padding(4);
+            this.minimize.Name = "minimize";
+            this.minimize.Size = new System.Drawing.Size(15, 20);
+            this.minimize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.minimize.TabIndex = 19;
+            this.minimize.TabStop = false;
+            this.minimize.MouseClick += new System.Windows.Forms.MouseEventHandler(this.MinimizeButtonMouseClick);
+            this.minimize.MouseLeave += new System.EventHandler(this.MinimizeButtonMouseLeave);
+            this.minimize.MouseHover += new System.EventHandler(this.MinimizeButtonMouseHover);
             // 
-            // pictureBox2
+            // resize
             // 
-            this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox2.ErrorImage = null;
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(21, 13);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(15, 15);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 18;
-            this.pictureBox2.TabStop = false;
+            this.resize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.resize.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.resize.ErrorImage = null;
+            this.resize.Image = ((System.Drawing.Image)(resources.GetObject("resize.Image")));
+            this.resize.Location = new System.Drawing.Point(21, 13);
+            this.resize.Margin = new System.Windows.Forms.Padding(4);
+            this.resize.Name = "resize";
+            this.resize.Size = new System.Drawing.Size(15, 15);
+            this.resize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.resize.TabIndex = 18;
+            this.resize.TabStop = false;
+            this.resize.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ResizeButtonMouseClick);
+            this.resize.MouseLeave += new System.EventHandler(this.ResizeButtonMouseLeave);
+            this.resize.MouseHover += new System.EventHandler(this.ResizeButtonMouseHover);
             // 
             // resizePanel
             // 
             this.resizePanel.BackColor = System.Drawing.Color.Transparent;
-            this.resizePanel.Controls.Add(this.pictureBox2);
+            this.resizePanel.Controls.Add(this.resize);
             this.resizePanel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.resizePanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.resizePanel.Location = new System.Drawing.Point(64, 3);
@@ -138,6 +154,8 @@
             this.resizePanel.Size = new System.Drawing.Size(55, 39);
             this.resizePanel.TabIndex = 21;
             this.resizePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ResizePanel_MouseClick);
+            this.resizePanel.MouseLeave += new System.EventHandler(this.ResizeButtonMouseLeave);
+            this.resizePanel.MouseHover += new System.EventHandler(this.ResizeButtonMouseHover);
             // 
             // close
             // 
@@ -151,6 +169,9 @@
             this.close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.close.TabIndex = 21;
             this.close.TabStop = false;
+            this.close.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CloseButtonMouseClick);
+            this.close.MouseLeave += new System.EventHandler(this.CloseButtonMouseLeave);
+            this.close.MouseHover += new System.EventHandler(this.CloseButtonMouseHover);
             // 
             // button1
             // 
@@ -211,6 +232,9 @@
             this.closePanel.Name = "closePanel";
             this.closePanel.Size = new System.Drawing.Size(55, 39);
             this.closePanel.TabIndex = 20;
+            this.closePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CloseButtonMouseClick);
+            this.closePanel.MouseLeave += new System.EventHandler(this.CloseButtonMouseLeave);
+            this.closePanel.MouseHover += new System.EventHandler(this.CloseButtonMouseHover);
             // 
             // tableLayoutPanel2
             // 
@@ -280,6 +304,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.White;
+            this.panel3.Controls.Add(this.flowLayoutPanel1);
             this.panel3.Controls.Add(this.button1);
             this.panel3.Controls.Add(this.label8);
             this.panel3.Controls.Add(this.label4);
@@ -296,6 +321,51 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(883, 578);
             this.panel3.TabIndex = 0;
+            // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.Controls.Add(this.panel8);
+            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(120, 578);
+            this.flowLayoutPanel1.TabIndex = 12;
+            // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.Green;
+            this.panel8.Controls.Add(this.label5);
+            this.panel8.Controls.Add(this.pictureBox1);
+            this.panel8.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel8.Location = new System.Drawing.Point(5, 5);
+            this.panel8.Margin = new System.Windows.Forms.Padding(5);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(110, 38);
+            this.panel8.TabIndex = 0;
+            this.panel8.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButtonBackClick);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Transparent;
+            this.label5.Location = new System.Drawing.Point(47, 9);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(47, 20);
+            this.label5.TabIndex = 1;
+            this.label5.Text = "Back";
+            this.label5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButtonBackClick);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 10);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(35, 18);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButtonBackClick);
             // 
             // label8
             // 
@@ -421,8 +491,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ResetPasswordForm";
             this.minimizePanel.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.minimize)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.resize)).EndInit();
             this.resizePanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
             this.panel4.ResumeLayout(false);
@@ -433,6 +503,10 @@
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
             this.panel3.ResumeLayout(false);
+            this.flowLayoutPanel1.ResumeLayout(false);
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel7.ResumeLayout(false);
             this.panel7.PerformLayout();
             this.panel2.ResumeLayout(false);
@@ -447,8 +521,8 @@
 
         private System.Windows.Forms.TextBox newPasswordBox;
         private System.Windows.Forms.Panel minimizePanel;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox minimize;
+        private System.Windows.Forms.PictureBox resize;
         private System.Windows.Forms.Panel resizePanel;
         private System.Windows.Forms.PictureBox close;
         private System.Windows.Forms.Button button1;
@@ -471,5 +545,9 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.TextBox confirmPasswordTextBox;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label5;
     }
 }

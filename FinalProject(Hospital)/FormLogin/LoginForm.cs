@@ -17,23 +17,6 @@ namespace FinalProject_Hospital_.FormLogin
         {
             InitializeComponent();
         }
-
-        private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
-        {
-            if (WindowState == FormWindowState.Normal) WindowState = FormWindowState.Maximized;
-            panel3.Margin = new Padding(380, 30, 380, 260);
-            
-        }
-
-        private void ResizeButtonMouseHover(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ResizeButtonMouseLeave(object sender, MouseEventArgs e)
-        {
-
-        }
         private void UsernameTexboxMouseUp(object sender, MouseEventArgs e)
         {
             usernameTexbox.ForeColor = Color.Black;
@@ -49,9 +32,11 @@ namespace FinalProject_Hospital_.FormLogin
 
         private void LoginButtonMouseClick(object sender, MouseEventArgs e)
         {
-            ResponsiveForm.MessageLoginPopUp mlp = new ResponsiveForm.MessageLoginPopUp(this);
-            mlp.FormBorderStyle = FormBorderStyle.None;
-            mlp.StartPosition = FormStartPosition.CenterParent;
+            ResponsiveForm.MessageLoginPopUp mlp = new ResponsiveForm.MessageLoginPopUp(this)
+            {
+                FormBorderStyle = FormBorderStyle.None,
+                StartPosition = FormStartPosition.CenterParent
+            };
             panel3.Visible = false;
             mlp.ShowDialog();
         }
@@ -69,6 +54,29 @@ namespace FinalProject_Hospital_.FormLogin
         {
             WindowState = FormWindowState.Maximized;
             panel3.Margin = new Padding(380, 30, 380, 260);
+        }
+        private void CloseButtonMouseHover(object sender, EventArgs e) => closePanel.BackColor = Color.LightGray;
+        private void ResizeButtonMouseHover(object sender, EventArgs e) => resizePanel.BackColor = Color.LightGray;
+        private void MinimizeButtonMouseHover(object sender, EventArgs e) => minimizePanel.BackColor = Color.LightGray;
+        private void CloseButtonMouseLeave(object sender, EventArgs e) => closePanel.BackColor = Color.Transparent;
+        private void MinimizeButtonMouseLeave(object sender, EventArgs e) => minimizePanel.BackColor = Color.Transparent;
+        private void CloseButtonMouseClick(object sender, MouseEventArgs e) => Application.Exit();
+        private void ResizeButtonMouseLeave(object sender, EventArgs e) => resizePanel.BackColor = Color.Transparent;
+
+        private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
+
+        private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
+        {
+            if (WindowState == FormWindowState.Normal)
+            {
+                WindowState = FormWindowState.Maximized;
+                panel3.Margin = new Padding(380, 30, 380, 260);
+            }
+            else if (WindowState == FormWindowState.Maximized)
+            {
+                WindowState = FormWindowState.Normal;
+            panel3.Margin = new Padding(300, 30, 300, 260);
+            }
         }
     }
 }
