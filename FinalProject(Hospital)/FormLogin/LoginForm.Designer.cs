@@ -49,8 +49,6 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.closePanel = new System.Windows.Forms.Panel();
             this.close = new System.Windows.Forms.PictureBox();
-            this.resizePanel = new System.Windows.Forms.Panel();
-            this.resize = new System.Windows.Forms.PictureBox();
             this.minimizePanel = new System.Windows.Forms.Panel();
             this.minimize = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
@@ -64,8 +62,6 @@
             this.tableLayoutPanel2.SuspendLayout();
             this.closePanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
-            this.resizePanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.resize)).BeginInit();
             this.minimizePanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.minimize)).BeginInit();
             this.SuspendLayout();
@@ -290,19 +286,18 @@
             // 
             // tableLayoutPanel2
             // 
-            this.tableLayoutPanel2.ColumnCount = 3;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.Controls.Add(this.closePanel, 2, 0);
-            this.tableLayoutPanel2.Controls.Add(this.resizePanel, 1, 0);
+            this.tableLayoutPanel2.ColumnCount = 2;
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel2.Controls.Add(this.closePanel, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.minimizePanel, 0, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(1300, 0);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(1361, 0);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(183, 45);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(122, 45);
             this.tableLayoutPanel2.TabIndex = 21;
             // 
             // closePanel
@@ -311,7 +306,7 @@
             this.closePanel.Controls.Add(this.close);
             this.closePanel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.closePanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.closePanel.Location = new System.Drawing.Point(125, 3);
+            this.closePanel.Location = new System.Drawing.Point(64, 3);
             this.closePanel.Name = "closePanel";
             this.closePanel.Size = new System.Drawing.Size(55, 39);
             this.closePanel.TabIndex = 20;
@@ -334,37 +329,6 @@
             this.close.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CloseButtonMouseClick);
             this.close.MouseLeave += new System.EventHandler(this.CloseButtonMouseLeave);
             this.close.MouseHover += new System.EventHandler(this.CloseButtonMouseHover);
-            // 
-            // resizePanel
-            // 
-            this.resizePanel.BackColor = System.Drawing.Color.Transparent;
-            this.resizePanel.Controls.Add(this.resize);
-            this.resizePanel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.resizePanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.resizePanel.Location = new System.Drawing.Point(64, 3);
-            this.resizePanel.Name = "resizePanel";
-            this.resizePanel.Size = new System.Drawing.Size(55, 39);
-            this.resizePanel.TabIndex = 21;
-            this.resizePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ResizeButtonMouseClick);
-            this.resizePanel.MouseLeave += new System.EventHandler(this.ResizeButtonMouseLeave);
-            this.resizePanel.MouseHover += new System.EventHandler(this.ResizeButtonMouseHover);
-            // 
-            // resize
-            // 
-            this.resize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.resize.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.resize.ErrorImage = null;
-            this.resize.Image = ((System.Drawing.Image)(resources.GetObject("resize.Image")));
-            this.resize.Location = new System.Drawing.Point(21, 13);
-            this.resize.Margin = new System.Windows.Forms.Padding(4);
-            this.resize.Name = "resize";
-            this.resize.Size = new System.Drawing.Size(15, 15);
-            this.resize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.resize.TabIndex = 18;
-            this.resize.TabStop = false;
-            this.resize.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ResizeButtonMouseClick);
-            this.resize.MouseLeave += new System.EventHandler(this.ResizeButtonMouseLeave);
-            this.resize.MouseHover += new System.EventHandler(this.ResizeButtonMouseHover);
             // 
             // minimizePanel
             // 
@@ -421,8 +385,6 @@
             this.tableLayoutPanel2.ResumeLayout(false);
             this.closePanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
-            this.resizePanel.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.resize)).EndInit();
             this.minimizePanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.minimize)).EndInit();
             this.ResumeLayout(false);
@@ -438,8 +400,6 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Panel closePanel;
         private System.Windows.Forms.PictureBox close;
-        private System.Windows.Forms.Panel resizePanel;
-        private System.Windows.Forms.PictureBox resize;
         private System.Windows.Forms.Panel minimizePanel;
         private System.Windows.Forms.PictureBox minimize;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;

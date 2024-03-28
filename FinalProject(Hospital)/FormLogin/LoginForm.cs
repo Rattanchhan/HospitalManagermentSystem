@@ -56,16 +56,14 @@ namespace FinalProject_Hospital_.FormLogin
             panel3.Margin = new Padding(380, 30, 380, 260);
         }
         private void CloseButtonMouseHover(object sender, EventArgs e) => closePanel.BackColor = Color.LightGray;
-        private void ResizeButtonMouseHover(object sender, EventArgs e) => resizePanel.BackColor = Color.LightGray;
         private void MinimizeButtonMouseHover(object sender, EventArgs e) => minimizePanel.BackColor = Color.LightGray;
         private void CloseButtonMouseLeave(object sender, EventArgs e) => closePanel.BackColor = Color.Transparent;
         private void MinimizeButtonMouseLeave(object sender, EventArgs e) => minimizePanel.BackColor = Color.Transparent;
         private void CloseButtonMouseClick(object sender, MouseEventArgs e) => Application.Exit();
-        private void ResizeButtonMouseLeave(object sender, EventArgs e) => resizePanel.BackColor = Color.Transparent;
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
 
-        private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
+        /*private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
         {
             if (WindowState == FormWindowState.Normal)
             {
@@ -77,6 +75,6 @@ namespace FinalProject_Hospital_.FormLogin
                 WindowState = FormWindowState.Normal;
             panel3.Margin = new Padding(300, 30, 300, 260);
             }
-        }
+        }*/
     }
 }

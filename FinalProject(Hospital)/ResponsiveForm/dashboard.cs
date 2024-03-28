@@ -27,6 +27,8 @@ namespace FinalProject_Hospital_.ResponsiveForm
             SetPanel(panel20, label4);
             PanelChange(panel21, panel22, panel28, panel29, panel46, panel73, panel74,
                         label11, label10, label13, label14, label15, label27, label28);
+            label9.Visible = false;
+            panel27.Visible = false;
             OpenForm(new ResponsiveForm.dashboardPage(), panel18);
 
         }
@@ -72,6 +74,11 @@ namespace FinalProject_Hospital_.ResponsiveForm
             SetPanel(panel20, label4);
             PanelChange(panel21, panel22, panel28, panel29, panel46, panel73, panel74,
                         label11, label10, label13, label14, label15, label27, label28);
+            label9.Visible = false;
+            label8.Text = "Status";
+            panel27.Visible = false;
+            panel18.Visible = true;
+            OpenForm(new ResponsiveForm.dashboardPage(), panel18);
         }
 
         private void DoctorPanelClick(object sender, MouseEventArgs e)
@@ -79,6 +86,10 @@ namespace FinalProject_Hospital_.ResponsiveForm
             SetPanel(panel21, label11);
             PanelChange(panel20, panel22, panel28, panel29, panel46, panel73, panel74,
                         label4, label10, label13, label14, label15, label27, label28);
+            label9.Visible = true;
+            label8.Text = "Add New Doctor";
+            panel27.Visible = true;
+            panel18.Visible = false;
         }
 
         private void PatientPanelClick(object sender, MouseEventArgs e)
@@ -124,15 +135,13 @@ namespace FinalProject_Hospital_.ResponsiveForm
         }
 
         private void CloseButtonMouseHover(object sender, EventArgs e)=>closePanel.BackColor = Color.LightGray;
-        private void ResizeButtonMouseHover(object sender, EventArgs e) => resizePanel.BackColor = Color.LightGray;
         private void MinimizeButtonMouseHover(object sender, EventArgs e) => minimizePanel.BackColor = Color.LightGray;
         private void CloseButtonMouseLeave(object sender, EventArgs e) => closePanel.BackColor = Color.Transparent;
         private void MinimizeButtonMouseLeave(object sender, EventArgs e) => minimizePanel.BackColor = Color.Transparent;
         private void CloseButtonMouseClick(object sender, MouseEventArgs e) => Application.Exit();
-        private void ResizeButtonMouseLeave(object sender, EventArgs e) => resizePanel.BackColor = Color.Transparent;
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
-        private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
+        /*private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
         {
             if (WindowState == FormWindowState.Normal)
             {
@@ -141,7 +150,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
             }
             else WindowState = FormWindowState.Normal;
 
-        }
+        }*/
 
         private void ButtonLogOutMouseClick(object sender, MouseEventArgs e)
         {
@@ -150,9 +159,5 @@ namespace FinalProject_Hospital_.ResponsiveForm
             login.WindowState = FormWindowState.Maximized;
             login.Show();
         }
-    }
-    public class Header
-    {
-        
     }
 }
