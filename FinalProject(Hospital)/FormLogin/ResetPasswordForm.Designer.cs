@@ -30,16 +30,10 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ResetPasswordForm));
             this.newPasswordBox = new System.Windows.Forms.TextBox();
-            this.minimizePanel = new System.Windows.Forms.Panel();
-            this.minimize = new System.Windows.Forms.PictureBox();
-            this.close = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.closePanel = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel5 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.oldPasswordTexbox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -57,13 +51,7 @@
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.minimizePanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.minimize)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
             this.panel4.SuspendLayout();
-            this.closePanel.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.panel5.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel3.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
@@ -90,53 +78,6 @@
             this.newPasswordBox.TabIndex = 0;
             this.newPasswordBox.Text = "New Password";
             this.newPasswordBox.MouseUp += new System.Windows.Forms.MouseEventHandler(this.NewPasswordBoxMouseUp);
-            // 
-            // minimizePanel
-            // 
-            this.minimizePanel.BackColor = System.Drawing.Color.Transparent;
-            this.minimizePanel.Controls.Add(this.minimize);
-            this.minimizePanel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.minimizePanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.minimizePanel.Location = new System.Drawing.Point(3, 3);
-            this.minimizePanel.Name = "minimizePanel";
-            this.minimizePanel.Size = new System.Drawing.Size(55, 39);
-            this.minimizePanel.TabIndex = 22;
-            this.minimizePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.MinimizeButtonMouseClick);
-            this.minimizePanel.MouseLeave += new System.EventHandler(this.MinimizeButtonMouseLeave);
-            this.minimizePanel.MouseHover += new System.EventHandler(this.MinimizeButtonMouseHover);
-            // 
-            // minimize
-            // 
-            this.minimize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.minimize.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.minimize.ErrorImage = null;
-            this.minimize.Image = ((System.Drawing.Image)(resources.GetObject("minimize.Image")));
-            this.minimize.Location = new System.Drawing.Point(20, 11);
-            this.minimize.Margin = new System.Windows.Forms.Padding(4);
-            this.minimize.Name = "minimize";
-            this.minimize.Size = new System.Drawing.Size(15, 20);
-            this.minimize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.minimize.TabIndex = 19;
-            this.minimize.TabStop = false;
-            this.minimize.MouseClick += new System.Windows.Forms.MouseEventHandler(this.MinimizeButtonMouseClick);
-            this.minimize.MouseLeave += new System.EventHandler(this.MinimizeButtonMouseLeave);
-            this.minimize.MouseHover += new System.EventHandler(this.MinimizeButtonMouseHover);
-            // 
-            // close
-            // 
-            this.close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.close.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.close.Image = ((System.Drawing.Image)(resources.GetObject("close.Image")));
-            this.close.Location = new System.Drawing.Point(20, 11);
-            this.close.Margin = new System.Windows.Forms.Padding(4);
-            this.close.Name = "close";
-            this.close.Size = new System.Drawing.Size(15, 20);
-            this.close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.close.TabIndex = 21;
-            this.close.TabStop = false;
-            this.close.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CloseButtonMouseClick);
-            this.close.MouseLeave += new System.EventHandler(this.CloseButtonMouseLeave);
-            this.close.MouseHover += new System.EventHandler(this.CloseButtonMouseHover);
             // 
             // button1
             // 
@@ -186,46 +127,6 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(502, 35);
             this.panel4.TabIndex = 7;
-            // 
-            // closePanel
-            // 
-            this.closePanel.BackColor = System.Drawing.Color.Transparent;
-            this.closePanel.Controls.Add(this.close);
-            this.closePanel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.closePanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.closePanel.Location = new System.Drawing.Point(64, 3);
-            this.closePanel.Name = "closePanel";
-            this.closePanel.Size = new System.Drawing.Size(55, 39);
-            this.closePanel.TabIndex = 20;
-            this.closePanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CloseButtonMouseClick);
-            this.closePanel.MouseLeave += new System.EventHandler(this.CloseButtonMouseLeave);
-            this.closePanel.MouseHover += new System.EventHandler(this.CloseButtonMouseHover);
-            // 
-            // tableLayoutPanel2
-            // 
-            this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel2.Controls.Add(this.closePanel, 1, 0);
-            this.tableLayoutPanel2.Controls.Add(this.minimizePanel, 0, 0);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(1361, 0);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 1;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(122, 45);
-            this.tableLayoutPanel2.TabIndex = 21;
-            // 
-            // panel5
-            // 
-            this.panel5.BackColor = System.Drawing.Color.Transparent;
-            this.panel5.Controls.Add(this.tableLayoutPanel2);
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel5.Location = new System.Drawing.Point(0, 0);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(1483, 45);
-            this.panel5.TabIndex = 5;
             // 
             // panel6
             // 
@@ -283,7 +184,7 @@
             this.panel3.Location = new System.Drawing.Point(300, 30);
             this.panel3.Margin = new System.Windows.Forms.Padding(300, 30, 300, 200);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(883, 578);
+            this.panel3.Size = new System.Drawing.Size(883, 623);
             this.panel3.TabIndex = 0;
             // 
             // flowLayoutPanel1
@@ -292,7 +193,7 @@
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(120, 578);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(120, 623);
             this.flowLayoutPanel1.TabIndex = 12;
             // 
             // panel8
@@ -400,7 +301,6 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.Transparent;
             this.panel2.Controls.Add(this.tableLayoutPanel3);
-            this.panel2.Controls.Add(this.panel5);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(0);
@@ -415,11 +315,11 @@
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.Controls.Add(this.panel3, 0, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(0, 45);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(1483, 808);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(1483, 853);
             this.tableLayoutPanel3.TabIndex = 6;
             // 
             // tableLayoutPanel1
@@ -454,14 +354,8 @@
             this.Name = "ResetPasswordForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ResetPasswordForm";
-            this.minimizePanel.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.minimize)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            this.closePanel.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.panel5.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
             this.panel3.ResumeLayout(false);
@@ -482,16 +376,10 @@
         #endregion
 
         private System.Windows.Forms.TextBox newPasswordBox;
-        private System.Windows.Forms.Panel minimizePanel;
-        private System.Windows.Forms.PictureBox minimize;
-        private System.Windows.Forms.PictureBox close;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Panel closePanel;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
-        private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.TextBox oldPasswordTexbox;
         private System.Windows.Forms.Label label1;

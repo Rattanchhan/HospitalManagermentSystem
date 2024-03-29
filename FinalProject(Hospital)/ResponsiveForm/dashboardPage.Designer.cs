@@ -670,6 +670,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "dashboardPage";
             this.Text = "dashboardPage";
+            this.Load += new System.EventHandler(this.dashboardPage_Load);
             this.tableLayoutPanel5.ResumeLayout(false);
             this.tableLayoutPanel6.ResumeLayout(false);
             this.panel9.ResumeLayout(false);

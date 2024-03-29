@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -89,9 +90,19 @@ namespace FinalProject_Hospital_.ResponsiveForm
             label9.Visible = true;
             label8.Text = "Add New Doctor";
             panel27.Visible = true;
-            panel18.Visible = false;
+            panel18.Visible = true;
+            GetStatus();
+            OpenForm(new ResponsiveForm.DoctorDetailForm(), panel18);
         }
-
+        private void GetStatus()
+        {
+            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;";
+            SqlConnection connect = new SqlConnection(connectionString);
+            SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM dbo.Doctor", connect);
+            connect.Open();
+            label9.Text = "All Doctor (" + ((Int32)command.ExecuteScalar()).ToString()+")";
+            OpenForm(new ResponsiveForm.dashboardPage(), panel18);
+        }
         private void PatientPanelClick(object sender, MouseEventArgs e)
         {
             SetPanel(panel22, label10);

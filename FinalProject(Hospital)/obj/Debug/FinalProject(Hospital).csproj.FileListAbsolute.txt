@@ -39,3 +39,4 @@ C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.CoreCompileInputs.cache
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailForm.resources

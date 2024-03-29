@@ -69,10 +69,6 @@ namespace FinalProject_Hospital_.FormLogin
         {
             OpenLoginForm(new FormLogin.LoginForm());
         }
-        private void CloseButtonMouseHover(object sender, EventArgs e) => closePanel.BackColor = Color.LightGray;
-        private void MinimizeButtonMouseHover(object sender, EventArgs e) => minimizePanel.BackColor = Color.LightGray;
-        private void CloseButtonMouseLeave(object sender, EventArgs e) => closePanel.BackColor = Color.Transparent;
-        private void MinimizeButtonMouseLeave(object sender, EventArgs e) => minimizePanel.BackColor = Color.Transparent;
         private void CloseButtonMouseClick(object sender, MouseEventArgs e) => Application.Exit();
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;

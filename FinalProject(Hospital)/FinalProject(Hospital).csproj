@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -72,6 +73,12 @@
     <Compile Include="ResponsiveForm\dashboardPage.Designer.cs">
       <DependentUpon>dashboardPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="ResponsiveForm\DoctorDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResponsiveForm\DoctorDetailForm.Designer.cs">
+      <DependentUpon>DoctorDetailForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ResponsiveForm\MessageLoginPopUp.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +105,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ResponsiveForm\dashboardPage.resx">
       <DependentUpon>dashboardPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResponsiveForm\DoctorDetailForm.resx">
+      <DependentUpon>DoctorDetailForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ResponsiveForm\MessageLoginPopUp.resx">
       <DependentUpon>MessageLoginPopUp.cs</DependentUpon>
