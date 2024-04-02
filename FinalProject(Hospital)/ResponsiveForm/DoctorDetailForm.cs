@@ -21,7 +21,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void DoctorDetailForm_Load(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;";
+            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;Connection Timeout=30";
             SqlDataAdapter dataAdapter;
                 try
                 {
@@ -35,6 +35,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
                     dataGrid.Columns[3].DataPropertyName = "DoctorPhoneNumber";
                     dataGrid.DataSource = table;
                     dataGrid.AllowUserToAddRows = false;
+                    
                 }
                 catch (SqlException)
                 {
@@ -42,6 +43,30 @@ namespace FinalProject_Hospital_.ResponsiveForm
                         "connectionString variable with a connection string that is " +
                         "valid for your system.");
                 }
+
+        }
+
+        private void CellMouseMove(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            dataGrid.Rows[e.RowIndex].Cells[0].Style.BackColor = Color.Blue;
+            dataGrid.Rows[e.RowIndex].Cells[1].Style.BackColor = Color.Blue;
+            dataGrid.Rows[e.RowIndex].Cells[2].Style.BackColor = Color.Blue;
+        }
+
+        private void CellMouseLeave(object sender, DataGridViewCellEventArgs e)
+        {
+            dataGrid.Rows[e.RowIndex].Cells[0].Style.BackColor = Color.Transparent;
+            dataGrid.Rows[e.RowIndex].Cells[1].Style.BackColor = Color.Transparent;
+            dataGrid.Rows[e.RowIndex].Cells[2].Style.BackColor = Color.Transparent;
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }

@@ -15,6 +15,9 @@ namespace FinalProject_Hospital_.ResponsiveForm
     public partial class dashboard : Form
     {
         private Form activeForm = new Form();
+        private string day=DateTime.Now.Day.ToString();
+        private string month=DateTime.Now.Month.ToString();
+        private string year=DateTime.Now.Year.ToString();
         public dashboard()
         {
             InitializeComponent();
@@ -23,8 +26,32 @@ namespace FinalProject_Hospital_.ResponsiveForm
         private extern static void ReleaseCapture();
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+        private String ValidateDateTime()
+        {
+            if (DateTime.Now.Day < 10)
+            {
+                if (DateTime.Now.Month < 10)
+                {
+                    day = "-0" + DateTime.Now.Day.ToString();
+                    month = "-0" + DateTime.Now.Month.ToString();
+                }
+                else
+                {
+                    day = "-0" + DateTime.Now.Day.ToString();
+                }
+            }
+            else
+            {
+                if (DateTime.Now.Month < 10)
+                {
+                    month = "-0" + DateTime.Now.Month.ToString();
+                }
+            }
+            return year + month + day;
+        }
         private void Dashboard_Load(object sender, EventArgs e)
         {
+            label3.Text=ValidateDateTime();
             SetPanel(panel20, label4);
             PanelChange(panel21, panel22, panel28, panel29, panel46, panel73, panel74,
                         label11, label10, label13, label14, label15, label27, label28);
@@ -96,10 +123,21 @@ namespace FinalProject_Hospital_.ResponsiveForm
         }
         private void GetStatus()
         {
-            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;";
+            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;Connection Timeout=30";
             SqlConnection connect = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM dbo.Doctor", connect);
-            connect.Open();
+            try
+            {
+                if (connect.State == ConnectionState.Closed)
+                {
+                    connect.Open();
+                }
+            }
+            catch (Exception e1)
+            {
+                if (connect.State != ConnectionState.Closed)
+                    connect.Close();
+            }
             label9.Text = "All Doctor (" + ((Int32)command.ExecuteScalar()).ToString()+")";
             OpenForm(new ResponsiveForm.dashboardPage(), panel18);
         }
