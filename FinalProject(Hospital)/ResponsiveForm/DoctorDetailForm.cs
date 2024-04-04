@@ -21,6 +21,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void DoctorDetailForm_Load(object sender, EventArgs e)
         {
+            MessageBox.Show(Width.ToString());
             string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;Connection Timeout=30";
             SqlDataAdapter dataAdapter;
                 try

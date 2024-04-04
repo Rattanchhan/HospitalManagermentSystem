@@ -47,13 +47,13 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(788, 10);
+            this.panel1.Size = new System.Drawing.Size(890, 10);
             this.panel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(328, 87);
+            this.pictureBox1.Location = new System.Drawing.Point(386, 110);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(135, 96);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -67,7 +67,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(782, 39);
+            this.label1.Size = new System.Drawing.Size(884, 43);
             this.label1.TabIndex = 2;
             this.label1.Text = "Thank You";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -78,9 +78,9 @@
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.DimGray;
-            this.label2.Location = new System.Drawing.Point(3, 39);
+            this.label2.Location = new System.Drawing.Point(3, 43);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(782, 26);
+            this.label2.Size = new System.Drawing.Size(884, 29);
             this.label2.TabIndex = 2;
             this.label2.Text = "Login has been sucessfully";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -91,7 +91,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Transparent;
-            this.button1.Location = new System.Drawing.Point(325, 32);
+            this.button1.Location = new System.Drawing.Point(383, 34);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(135, 44);
             this.button1.TabIndex = 3;
@@ -107,22 +107,22 @@
             this.tableLayoutPanel1.Controls.Add(this.panel2, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.label2, 0, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 184);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 216);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.75F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 12.5F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 68.75F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(788, 208);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(890, 233);
             this.tableLayoutPanel1.TabIndex = 4;
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.button1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(3, 68);
+            this.panel2.Location = new System.Drawing.Point(3, 75);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(782, 137);
+            this.panel2.Size = new System.Drawing.Size(884, 155);
             this.panel2.TabIndex = 3;
             // 
             // MessageLoginPopUp
@@ -130,7 +130,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(788, 392);
+            this.ClientSize = new System.Drawing.Size(890, 449);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel1);

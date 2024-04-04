@@ -330,7 +330,7 @@
             this.tableLayoutPanel3.ColumnCount = 3;
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.99029F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 73.00971F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 296F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 298F));
             this.tableLayoutPanel3.Controls.Add(this.tableLayoutPanel6, 1, 0);
             this.tableLayoutPanel3.Controls.Add(this.tableLayoutPanel7, 2, 0);
             this.tableLayoutPanel3.Controls.Add(this.panel25, 0, 0);
@@ -440,11 +440,11 @@
             this.tableLayoutPanel7.Controls.Add(this.panel23, 0, 0);
             this.tableLayoutPanel7.Controls.Add(this.panel24, 1, 0);
             this.tableLayoutPanel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel7.Location = new System.Drawing.Point(1024, 3);
+            this.tableLayoutPanel7.Location = new System.Drawing.Point(1022, 3);
             this.tableLayoutPanel7.Name = "tableLayoutPanel7";
             this.tableLayoutPanel7.RowCount = 1;
             this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel7.Size = new System.Drawing.Size(291, 85);
+            this.tableLayoutPanel7.Size = new System.Drawing.Size(293, 85);
             this.tableLayoutPanel7.TabIndex = 2;
             // 
             // panel23
@@ -454,7 +454,7 @@
             this.panel23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel23.Location = new System.Drawing.Point(3, 3);
             this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(134, 79);
+            this.panel23.Size = new System.Drawing.Size(135, 79);
             this.panel23.TabIndex = 0;
             // 
             // label3
@@ -462,7 +462,7 @@
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(15, 32);
+            this.label3.Location = new System.Drawing.Point(16, 32);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(103, 20);
@@ -475,7 +475,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Gray;
-            this.label5.Location = new System.Drawing.Point(23, 7);
+            this.label5.Location = new System.Drawing.Point(24, 7);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(95, 18);
@@ -486,9 +486,9 @@
             // 
             this.panel24.Controls.Add(this.pictureBox1);
             this.panel24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel24.Location = new System.Drawing.Point(143, 3);
+            this.panel24.Location = new System.Drawing.Point(144, 3);
             this.panel24.Name = "panel24";
-            this.panel24.Size = new System.Drawing.Size(145, 79);
+            this.panel24.Size = new System.Drawing.Size(146, 79);
             this.panel24.TabIndex = 1;
             // 
             // pictureBox1
@@ -540,7 +540,7 @@
             this.panel27.BackColor = System.Drawing.Color.Green;
             this.panel27.Controls.Add(this.label7);
             this.panel27.Controls.Add(this.pictureBox8);
-            this.panel27.Location = new System.Drawing.Point(1026, 99);
+            this.panel27.Location = new System.Drawing.Point(1024, 99);
             this.panel27.Margin = new System.Windows.Forms.Padding(5, 8, 5, 5);
             this.panel27.MaximumSize = new System.Drawing.Size(143, 41);
             this.panel27.Name = "panel27";
