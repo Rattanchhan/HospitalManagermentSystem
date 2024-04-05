@@ -40,3 +40,5 @@ C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailForm.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.Patient.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.VisualForm.resources

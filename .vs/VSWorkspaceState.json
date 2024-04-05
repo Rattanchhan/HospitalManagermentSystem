@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\FinalProject(Hospital)",
+    "\\FinalProject(Hospital)\\FormAdd",
     "\\FinalProject(Hospital)\\FormLogin",
     "\\FinalProject(Hospital)\\ResponsiveForm"
   ],
-  "SelectedNode": "\\FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailForm.cs",
+  "SelectedNode": "\\FinalProject(Hospital)\\FormAdd\\Patient.cs",
   "PreviewInSolutionExplorer": false
 }

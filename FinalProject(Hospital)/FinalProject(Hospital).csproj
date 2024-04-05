@@ -47,6 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormAdd\Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdd\Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdd\VisualForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdd\VisualForm.Designer.cs">
+      <DependentUpon>VisualForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormLogin\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +97,12 @@
     <Compile Include="ResponsiveForm\MessageLoginPopUp.Designer.cs">
       <DependentUpon>MessageLoginPopUp.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormAdd\Patient.resx">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdd\VisualForm.resx">
+      <DependentUpon>VisualForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormLogin\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -124,6 +142,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\angle-left-solid.png" />
+    <Content Include="images\angle-right-solid.png" />
+    <Content Include="images\arrow-left-solid.png" />
+    <Content Include="images\circle-chevron-left-solid.png" />
+    <Content Include="images\circle-chevron-right-solid.png" />
+    <Content Include="images\eye-regular%281%29.png" />
+    <Content Include="images\pen-to-square-regular.png" />
+    <Content Include="images\plus-solid.png" />
+    <Content Include="images\pngwing.com %282%29.png" />
+    <Content Include="images\trash-can-regular.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

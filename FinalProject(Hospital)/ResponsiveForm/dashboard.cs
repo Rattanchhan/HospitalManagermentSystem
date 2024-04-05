@@ -18,6 +18,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
         private string day=DateTime.Now.Day.ToString();
         private string month=DateTime.Now.Month.ToString();
         private string year=DateTime.Now.Year.ToString();
+        private FormAdd.VisualForm visualForm = new FormAdd.VisualForm();
         public dashboard()
         {
             InitializeComponent();
@@ -109,7 +110,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
             OpenForm(new ResponsiveForm.dashboardPage(), panel18);
         }
 
-        private void DoctorPanelClick(object sender, MouseEventArgs e)
+        public void DoctorPanelClick(object sender, MouseEventArgs e)
         {
             SetPanel(panel21, label11);
             PanelChange(panel20, panel22, panel28, panel29, panel46, panel73, panel74,
@@ -207,6 +208,17 @@ namespace FinalProject_Hospital_.ResponsiveForm
             Close();
             login.WindowState = FormWindowState.Maximized;
             login.Show();
+        }
+
+        private void AddNewDoctor(object sender, MouseEventArgs e)
+        {
+            FormAdd.Patient patient = new FormAdd.Patient()
+            {
+                FormBorderStyle = FormBorderStyle.None
+            };
+            Close();
+            visualForm.Show();
+            patient.Show();
         }
     }
 }
