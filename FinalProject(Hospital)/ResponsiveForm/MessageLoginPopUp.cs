@@ -36,7 +36,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
         }
         private void OpenLoginForm(Form form)
         {
-            Close();
+            Hide();
             form.WindowState = FormWindowState.Maximized;
             form.Show();
         }

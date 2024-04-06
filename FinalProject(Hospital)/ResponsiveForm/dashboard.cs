@@ -17,8 +17,13 @@ namespace FinalProject_Hospital_.ResponsiveForm
         private Form activeForm = new Form();
         private string day=DateTime.Now.Day.ToString();
         private string month=DateTime.Now.Month.ToString();
-        private string year=DateTime.Now.Year.ToString();
-        private FormAdd.VisualForm visualForm = new FormAdd.VisualForm();
+        private readonly string year=DateTime.Now.Year.ToString();
+        private static readonly FormLogin.LoginForm login = new FormLogin.LoginForm();
+        private static readonly FormAdd.Doctor doctor = new FormAdd.Doctor()
+        {
+            FormBorderStyle = FormBorderStyle.None
+        };
+        private static readonly FormAdd.VisualForm visualForm = new FormAdd.VisualForm(doctor);
         public dashboard()
         {
             InitializeComponent();
@@ -134,7 +139,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
                     connect.Open();
                 }
             }
-            catch (Exception e1)
+            catch (Exception eception)
             {
                 if (connect.State != ConnectionState.Closed)
                     connect.Close();
@@ -204,21 +209,17 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void ButtonLogOutMouseClick(object sender, MouseEventArgs e)
         {
-            FormLogin.LoginForm login = new FormLogin.LoginForm();
-            Close();
+            Hide();
             login.WindowState = FormWindowState.Maximized;
             login.Show();
         }
 
         private void AddNewDoctor(object sender, MouseEventArgs e)
         {
-            FormAdd.Patient patient = new FormAdd.Patient()
-            {
-                FormBorderStyle = FormBorderStyle.None
-            };
-            Close();
+            Hide();
             visualForm.Show();
-            patient.Show();
+            /*doctor.PanelChange("ok");*/
+            doctor.Show();
         }
     }
 }
