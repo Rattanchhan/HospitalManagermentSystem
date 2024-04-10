@@ -21,7 +21,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void dashboardPage_Load(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;Connection Timeout=30";
+            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
             SqlConnection connect = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM dbo.Doctor", connect);
             try {

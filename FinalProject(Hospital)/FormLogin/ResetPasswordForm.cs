@@ -16,10 +16,6 @@ namespace FinalProject_Hospital_.FormLogin
         {
             InitializeComponent();
         }
-        public void ResizePanel()
-        {
-            panel3.Margin = new Padding(380, 30, 380, 260);
-        }
         private void TextBoxChange(TextBox textBox)
         {
             textBox.ForeColor = Color.Black;
@@ -39,12 +35,6 @@ namespace FinalProject_Hospital_.FormLogin
         private void OldPasswordTexboxMouseUp(object sender, MouseEventArgs e)
         {
             TextBoxChange(oldPasswordTexbox);
-        }
-
-        private void ResizePanel_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (WindowState == FormWindowState.Normal) WindowState = FormWindowState.Maximized;
-            panel3.Margin = new Padding(380, 30, 380, 260);
         }
 
         private void ChangePasswordButtonClick(object sender, MouseEventArgs e)
@@ -73,18 +63,18 @@ namespace FinalProject_Hospital_.FormLogin
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
 
-        /*private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
+        private void ResizeForm(object sender, EventArgs e)
         {
             if (WindowState == FormWindowState.Normal)
-            {
-                WindowState = FormWindowState.Maximized;
-                panel3.Margin = new Padding(380, 30, 380, 260);
+                        {
+                int width = (int)(0.12 * tableLayoutPanel3.Width);
+                panel3.Margin = new Padding(width, 30, width, 200);
             }
-            else if (WindowState == FormWindowState.Maximized)
+            else
             {
-                WindowState = FormWindowState.Normal;
-                panel3.Margin = new Padding(300, 30, 300, 260);
+                int width = (int)(0.20 * tableLayoutPanel3.Width);
+                panel3.Margin = new Padding(width, 30, width, 260);
             }
-        }*/
+        }
     }
 }

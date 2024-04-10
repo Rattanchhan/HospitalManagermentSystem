@@ -42,4 +42,48 @@ C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailForm.resources
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.VisualForm.resources
 C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.Doctor.resources
-C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.AddMessagePopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ViewDetial.Doctor.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessagePopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageDeletePopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.AssemblyReference.cache
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe.config
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.Doctor.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.VisualForm.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.LoginForm.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.ResetPasswordForm.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.Properties.Resources.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageDeletePopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessagePopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboard.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboardPage.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailForm.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageLoginPopUp.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ViewDetial.Doctor.resources
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.GenerateResource.cache
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.CoreCompileInputs.cache
+C:\Users\chhan\OneDrive\Desktop\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailFormUpdate.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe.config
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\bin\Debug\FinalProject(Hospital).pdb
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.AssemblyReference.cache
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.Doctor.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormAdd.VisualForm.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.LoginForm.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.FormLogin.ResetPasswordForm.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.Properties.Resources.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailFormUpdate.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageDeletePopUp.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessagePopUp.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboard.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.dashboardPage.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.DoctorDetailForm.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ResponsiveForm.MessageLoginPopUp.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject_Hospital_.ViewDetial.Doctor.resources
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.GenerateResource.cache
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).csproj.CoreCompileInputs.cache
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).exe
+C:\Users\chhan\OneDrive\Documents\Ratana\Royal University of Phnom Penh\C# Programming\HospitalManagermentSystem\HospitalManagermentSystem\FinalProject(Hospital)\obj\Debug\FinalProject(Hospital).pdb

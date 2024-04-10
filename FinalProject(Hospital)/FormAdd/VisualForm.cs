@@ -13,34 +13,37 @@ namespace FinalProject_Hospital_.FormAdd
 {
     public partial class VisualForm : Form
     {
-        private static Form doctor;
+        private readonly Form childForm;
         private ResponsiveForm.dashboard dashboard = new ResponsiveForm.dashboard()
         {
             WindowState = FormWindowState.Maximized
         };
-        public VisualForm(Form doctorForm)
+        public VisualForm(Form form)
         {
-            doctor= doctorForm;
+            childForm = form;
             InitializeComponent();
         }
-        
         private void VisualForm_Load(object sender, EventArgs e)
+        {
+            OpenForm(childForm);
+        }
+        private void OpenForm(Form childForm)
         {
             WindowState = FormWindowState.Maximized;
             FormBorderStyle = FormBorderStyle.None;
-            doctor.FormBorderStyle = FormBorderStyle.None;
-            doctor.Dock = DockStyle.Fill;
-            doctor.TopLevel = false;
-            panel2.Controls.Add(doctor);
-            doctor.Show();
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            childForm.TopLevel = false;
+            panel2.Controls.Add(childForm);
+            childForm.Show();
         }
 
         private void CloseButtonPanelClick(object sender, MouseEventArgs e)
         {
-            doctor.Hide();
+            childForm.Hide();
             Hide();
-            dashboard.Show();
-            dashboard.DoctorPanelClick(sender, e);
+            /*dashboard.Show();
+            dashboard.DoctorPanelClick(sender, e);*/
         }
 
         private void CloseButtonPanelHover(object sender, EventArgs e)=>closePanel.BackColor = Color.LightGray;

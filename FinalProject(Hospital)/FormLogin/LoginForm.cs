@@ -46,14 +46,12 @@ namespace FinalProject_Hospital_.FormLogin
             FormLogin.ResetPasswordForm resetPassword = new FormLogin.ResetPasswordForm();
             Hide();
             resetPassword.WindowState = FormWindowState.Maximized;
-            resetPassword.ResizePanel();
             resetPassword.Show();
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Maximized;
-            panel3.Margin = new Padding(380, 30, 380, 260);
         }
         private void CloseButtonMouseHover(object sender, EventArgs e) => closePanel.BackColor = Color.LightGray;
         private void MinimizeButtonMouseHover(object sender, EventArgs e) => minimizePanel.BackColor = Color.LightGray;
@@ -63,18 +61,19 @@ namespace FinalProject_Hospital_.FormLogin
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
 
-        /*private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
+        private void ResizeForm(object sender, EventArgs e)
         {
             if (WindowState == FormWindowState.Normal)
             {
-                WindowState = FormWindowState.Maximized;
-                panel3.Margin = new Padding(380, 30, 380, 260);
+                int width = (int)(0.12 * tableLayoutPanel3.Width);
+                panel3.Margin = new Padding(width, 30, width, 200);
             }
-            else if (WindowState == FormWindowState.Maximized)
+            else
             {
-                WindowState = FormWindowState.Normal;
-            panel3.Margin = new Padding(300, 30, 300, 260);
+                int width = (int)(0.20 * tableLayoutPanel3.Width);
+                panel3.Margin = new Padding(width, 30, width, 260);
             }
-        }*/
+            
+        }
     }
 }

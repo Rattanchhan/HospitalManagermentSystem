@@ -19,11 +19,8 @@ namespace FinalProject_Hospital_.ResponsiveForm
         private string month=DateTime.Now.Month.ToString();
         private readonly string year=DateTime.Now.Year.ToString();
         private static readonly FormLogin.LoginForm login = new FormLogin.LoginForm();
-        private static readonly FormAdd.Doctor doctor = new FormAdd.Doctor()
-        {
-            FormBorderStyle = FormBorderStyle.None
-        };
-        private static readonly FormAdd.VisualForm visualForm = new FormAdd.VisualForm(doctor);
+        public  FormAdd.VisualForm visualForm ;
+        public ResponsiveForm.DoctorDetailFormUpdate doctorDetail;
         public dashboard()
         {
             InitializeComponent();
@@ -44,13 +41,14 @@ namespace FinalProject_Hospital_.ResponsiveForm
                 else
                 {
                     day = "-0" + DateTime.Now.Day.ToString();
+                    month = "-" + DateTime.Now.Month.ToString();
                 }
             }
             else
             {
                 if (DateTime.Now.Month < 10)
                 {
-                    month = "-0" + DateTime.Now.Month.ToString();
+                    month = "-0" + DateTime.Now.Month.ToString()+"-";
                 }
             }
             return year + month + day;
@@ -125,11 +123,12 @@ namespace FinalProject_Hospital_.ResponsiveForm
             panel27.Visible = true;
             panel18.Visible = true;
             GetStatus();
-            OpenForm(new ResponsiveForm.DoctorDetailForm(), panel18);
+            doctorDetail = new ResponsiveForm.DoctorDetailFormUpdate(label9, this);
+            OpenForm(doctorDetail, panel18);
         }
         private void GetStatus()
         {
-            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=SSPI;Connection Timeout=30";
+            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
             SqlConnection connect = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM dbo.Doctor", connect);
             try
@@ -196,16 +195,6 @@ namespace FinalProject_Hospital_.ResponsiveForm
         private void CloseButtonMouseClick(object sender, MouseEventArgs e) => Application.Exit();
 
         private void MinimizeButtonMouseClick(object sender, MouseEventArgs e) => WindowState = FormWindowState.Minimized;
-        /*private void ResizeButtonMouseClick(object sender, MouseEventArgs e)
-        {
-            if (WindowState == FormWindowState.Normal)
-            {
-                WindowState = FormWindowState.Maximized;
-                
-            }
-            else WindowState = FormWindowState.Normal;
-
-        }*/
 
         private void ButtonLogOutMouseClick(object sender, MouseEventArgs e)
         {
@@ -216,10 +205,12 @@ namespace FinalProject_Hospital_.ResponsiveForm
 
         private void AddNewDoctor(object sender, MouseEventArgs e)
         {
-            Hide();
+            /*Hide();*/
+            visualForm = new FormAdd.VisualForm(new FormAdd.Doctor(null,this)
+            {
+                FormBorderStyle = FormBorderStyle.None
+            });
             visualForm.Show();
-            /*doctor.PanelChange("ok");*/
-            doctor.Show();
         }
     }
 }
