@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\doctordetailformupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\doctordetailformupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|c:\\users\\rattana\\desktop\\hospitalmanagermentsystem\\finalproject(hospital)\\responsiveform\\doctordetailformupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\doctordetailformupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\formlogin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\messagedeletepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\messagedeletepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA43ABA-7B63-46E8-B8CF-39DDBD85D475}|FinalProject(Hospital)\\FinalProject(Hospital).csproj|solutionrelative:finalproject(hospital)\\responsiveform\\messageloginpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorDetailFormUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAUwBAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:47:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorDetailFormUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\DoctorDetailFormUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:47:05.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:46:36.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboardPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboardPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:46:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAIIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:45:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:45:50.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:36:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\ResetPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:36:41.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageDeletePopUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\MessageDeletePopUp.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\MessageDeletePopUp.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\MessageDeletePopUp.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\MessageDeletePopUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:28:55.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA3wGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:25:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageLoginPopUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\ResponsiveForm\\MessageLoginPopUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:18:01.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\HospitalManagermentSystem\\FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
+              "RelativeToolTip": "FinalProject(Hospital)\\FormLogin\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:17:33.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

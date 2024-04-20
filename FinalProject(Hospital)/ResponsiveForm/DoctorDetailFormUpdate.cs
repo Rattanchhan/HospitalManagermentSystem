@@ -14,7 +14,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
     public partial class DoctorDetailFormUpdate : Form
     {
         //Connect to Sql server
-        private string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
+        private string connectionString = "Data Source=DESKTOP-7ODK8A5\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
         private SqlCommand sqlCommand;
         private Label LabelChange;
         private SqlConnection sqlConnection;

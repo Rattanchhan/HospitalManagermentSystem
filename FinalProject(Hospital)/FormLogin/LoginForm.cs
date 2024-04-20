@@ -13,6 +13,7 @@ namespace FinalProject_Hospital_.FormLogin
 {
     public partial class LoginForm : Form
     {
+        private int width;
         public LoginForm()
         {
             InitializeComponent();
@@ -63,17 +64,46 @@ namespace FinalProject_Hospital_.FormLogin
 
         private void ResizeForm(object sender, EventArgs e)
         {
-            if (WindowState == FormWindowState.Normal)
+            if (WindowState == FormWindowState.Maximized)
             {
-                int width = (int)(0.12 * tableLayoutPanel3.Width);
-                panel3.Margin = new Padding(width, 30, width, 200);
+                width = tableLayoutPanel3.Width;
+            }
+            if (width <= 1300)
+            {
+                ScreenSize1();
             }
             else
             {
-                int width = (int)(0.20 * tableLayoutPanel3.Width);
-                panel3.Margin = new Padding(width, 30, width, 260);
+                ScreenSize2();
             }
-            
         }
+        private void ScreenSize1()
+        {
+            if (WindowState == FormWindowState.Normal)
+            {
+                ChangeSize(0.12F, 100);
+            }
+            else
+            {
+                ChangeSize(0.20F, 160);
+            }
+        }
+        private void ChangeSize(float percentage, int buttom)
+        {
+            int width = (int)(percentage * tableLayoutPanel3.Width);
+            panel3.Margin = new Padding(width, 30, width, buttom);
+        }
+        private void ScreenSize2()
+        {
+            if (WindowState == FormWindowState.Normal)
+            {
+                ChangeSize(0.12F, 200);
+            }
+            else
+            {
+                ChangeSize(0.20F, 260);
+            }
+        }
+
     }
 }

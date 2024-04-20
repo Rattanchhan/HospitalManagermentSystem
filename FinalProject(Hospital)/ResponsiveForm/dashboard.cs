@@ -128,7 +128,7 @@ namespace FinalProject_Hospital_.ResponsiveForm
         }
         private void GetStatus()
         {
-            string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
+            string connectionString = "Data Source=DESKTOP-7ODK8A5\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
             SqlConnection connect = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM dbo.Doctor", connect);
             try
