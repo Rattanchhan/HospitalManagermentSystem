@@ -98,8 +98,9 @@
             // 
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 45);
+            this.panel2.MaximumSize = new System.Drawing.Size(1920, 867);
             this.panel2.Name = "panel2";
-            this.panel2.Padding = new System.Windows.Forms.Padding(326, 0, 326, 0);
+            this.panel2.Padding = new System.Windows.Forms.Padding(350, 70, 350, 80);
             this.panel2.Size = new System.Drawing.Size(1077, 543);
             this.panel2.TabIndex = 2;
             // 

@@ -106,7 +106,6 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(3, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Padding = new System.Windows.Forms.Padding(60, 80, 60, 60);
             this.panel1.Size = new System.Drawing.Size(1268, 861);
             this.panel1.TabIndex = 0;
             // 
@@ -115,12 +114,10 @@
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.tableLayoutPanel3);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(60, 80);
+            this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(40, 80, 40, 3);
-            this.panel2.MaximumSize = new System.Drawing.Size(1148, 650);
-            this.panel2.MinimumSize = new System.Drawing.Size(1148, 650);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1148, 650);
+            this.panel2.Size = new System.Drawing.Size(1268, 861);
             this.panel2.TabIndex = 1;
             // 
             // tableLayoutPanel3
@@ -138,7 +135,7 @@
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 17.12963F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 82.87037F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(1146, 648);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(1266, 859);
             this.tableLayoutPanel3.TabIndex = 6;
             // 
             // panel3
@@ -148,7 +145,7 @@
             this.panel3.Location = new System.Drawing.Point(3, 2);
             this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1140, 106);
+            this.panel3.Size = new System.Drawing.Size(1260, 143);
             this.panel3.TabIndex = 0;
             // 
             // label1
@@ -158,7 +155,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(54, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(992, 44);
+            this.label1.Size = new System.Drawing.Size(1132, 44);
             this.label1.TabIndex = 0;
             this.label1.Text = "Add New Doctor";
             // 
@@ -177,10 +174,10 @@
             this.panel4.Controls.Add(this.label3);
             this.panel4.Controls.Add(this.label2);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(3, 112);
+            this.panel4.Location = new System.Drawing.Point(3, 149);
             this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1140, 534);
+            this.panel4.Size = new System.Drawing.Size(1260, 708);
             this.panel4.TabIndex = 0;
             // 
             // panel9
@@ -189,10 +186,10 @@
             this.panel9.Controls.Add(this.AddButton);
             this.panel9.Controls.Add(this.ResetButton);
             this.panel9.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel9.Location = new System.Drawing.Point(0, 404);
+            this.panel9.Location = new System.Drawing.Point(0, 578);
             this.panel9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(1140, 130);
+            this.panel9.Size = new System.Drawing.Size(1260, 130);
             this.panel9.TabIndex = 3;
             // 
             // AddButton
@@ -228,161 +225,186 @@
             // 
             // panel8
             // 
+            this.panel8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Controls.Add(this.ContactNumberTextBox);
             this.panel8.Location = new System.Drawing.Point(61, 368);
             this.panel8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(1017, 31);
+            this.panel8.Size = new System.Drawing.Size(1140, 31);
             this.panel8.TabIndex = 5;
             // 
             // ContactNumberTextBox
             // 
             this.ContactNumberTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.ContactNumberTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.ContactNumberTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ContactNumberTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ContactNumberTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.ContactNumberTextBox.Location = new System.Drawing.Point(12, 4);
+            this.ContactNumberTextBox.Location = new System.Drawing.Point(18, 2);
             this.ContactNumberTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ContactNumberTextBox.Multiline = true;
             this.ContactNumberTextBox.Name = "ContactNumberTextBox";
-            this.ContactNumberTextBox.Size = new System.Drawing.Size(994, 23);
+            this.ContactNumberTextBox.Size = new System.Drawing.Size(1106, 25);
             this.ContactNumberTextBox.TabIndex = 5;
+            this.ContactNumberTextBox.Text = "sfdsffd";
             // 
             // panel7
             // 
+            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Controls.Add(this.AddressTextBox);
             this.panel7.Location = new System.Drawing.Point(60, 283);
             this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(1018, 31);
+            this.panel7.Size = new System.Drawing.Size(1140, 31);
             this.panel7.TabIndex = 4;
             // 
             // AddressTextBox
             // 
             this.AddressTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.AddressTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.AddressTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AddressTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AddressTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.AddressTextBox.Location = new System.Drawing.Point(13, 4);
+            this.AddressTextBox.Location = new System.Drawing.Point(19, 2);
             this.AddressTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AddressTextBox.Multiline = true;
             this.AddressTextBox.Name = "AddressTextBox";
-            this.AddressTextBox.Size = new System.Drawing.Size(994, 23);
+            this.AddressTextBox.Size = new System.Drawing.Size(1106, 25);
             this.AddressTextBox.TabIndex = 4;
+            this.AddressTextBox.Text = "sfdsffd";
             // 
             // panel6
             // 
+            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel6.Controls.Add(this.DepartmentTextBox);
             this.panel6.Location = new System.Drawing.Point(60, 198);
             this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(1018, 31);
+            this.panel6.Size = new System.Drawing.Size(1140, 31);
             this.panel6.TabIndex = 3;
             // 
             // DepartmentTextBox
             // 
             this.DepartmentTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.DepartmentTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.DepartmentTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DepartmentTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.DepartmentTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.DepartmentTextBox.Location = new System.Drawing.Point(13, 4);
+            this.DepartmentTextBox.Location = new System.Drawing.Point(19, 2);
             this.DepartmentTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DepartmentTextBox.Multiline = true;
             this.DepartmentTextBox.Name = "DepartmentTextBox";
-            this.DepartmentTextBox.Size = new System.Drawing.Size(994, 23);
+            this.DepartmentTextBox.Size = new System.Drawing.Size(1106, 25);
             this.DepartmentTextBox.TabIndex = 3;
+            this.DepartmentTextBox.Text = "sfdsffd";
             // 
             // panel5
             // 
+            this.panel5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.DoctorNameTextBox);
             this.panel5.Location = new System.Drawing.Point(60, 114);
             this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(1018, 31);
+            this.panel5.Size = new System.Drawing.Size(1140, 31);
             this.panel5.TabIndex = 2;
             // 
             // DoctorNameTextBox
             // 
             this.DoctorNameTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.DoctorNameTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.DoctorNameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DoctorNameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.DoctorNameTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.DoctorNameTextBox.Location = new System.Drawing.Point(13, 4);
+            this.DoctorNameTextBox.Location = new System.Drawing.Point(19, 2);
             this.DoctorNameTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DoctorNameTextBox.Multiline = true;
             this.DoctorNameTextBox.Name = "DoctorNameTextBox";
-            this.DoctorNameTextBox.Size = new System.Drawing.Size(994, 23);
+            this.DoctorNameTextBox.Size = new System.Drawing.Size(1106, 25);
             this.DoctorNameTextBox.TabIndex = 2;
+            this.DoctorNameTextBox.Text = "sfdsffd";
             // 
             // panel10
             // 
+            this.panel10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel10.Controls.Add(this.DoctorIDTextBox);
             this.panel10.Location = new System.Drawing.Point(60, 28);
             this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(1018, 31);
+            this.panel10.Size = new System.Drawing.Size(1140, 31);
             this.panel10.TabIndex = 1;
             // 
             // DoctorIDTextBox
             // 
             this.DoctorIDTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.DoctorIDTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.DoctorIDTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DoctorIDTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.DoctorIDTextBox.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.DoctorIDTextBox.Location = new System.Drawing.Point(13, 4);
+            this.DoctorIDTextBox.Location = new System.Drawing.Point(19, 2);
             this.DoctorIDTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DoctorIDTextBox.Multiline = true;
             this.DoctorIDTextBox.Name = "DoctorIDTextBox";
-            this.DoctorIDTextBox.Size = new System.Drawing.Size(994, 23);
+            this.DoctorIDTextBox.Size = new System.Drawing.Size(1106, 25);
             this.DoctorIDTextBox.TabIndex = 1;
+            this.DoctorIDTextBox.Text = "sfdsffd";
             // 
             // label7
             // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(56, 342);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(437, 19);
+            this.label7.Size = new System.Drawing.Size(1132, 19);
             this.label7.TabIndex = 0;
             this.label7.Text = "ContactNumber:";
             // 
             // label5
             // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(56, 258);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(437, 19);
+            this.label5.Size = new System.Drawing.Size(1132, 19);
             this.label5.TabIndex = 0;
             this.label5.Text = "Address:";
             // 
             // label4
             // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(56, 173);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(437, 28);
+            this.label4.Size = new System.Drawing.Size(1132, 28);
             this.label4.TabIndex = 0;
             this.label4.Text = "Department:";
             // 
             // label3
             // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(56, 88);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(437, 22);
+            this.label3.Size = new System.Drawing.Size(1132, 22);
             this.label3.TabIndex = 0;
             this.label3.Text = "DoctorName:";
             // 
             // label2
             // 
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(56, 3);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(437, 23);
+            this.label2.Size = new System.Drawing.Size(1132, 23);
             this.label2.TabIndex = 0;
             this.label2.Text = "DoctorID:";
             // 
@@ -393,8 +415,6 @@
             this.ClientSize = new System.Drawing.Size(1280, 873);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.MaximumSize = new System.Drawing.Size(1298, 920);
-            this.MinimumSize = new System.Drawing.Size(1298, 920);
             this.Name = "Doctor";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Patient";

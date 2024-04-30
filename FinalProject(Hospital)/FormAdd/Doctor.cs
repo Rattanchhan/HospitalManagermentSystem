@@ -17,7 +17,7 @@ namespace FinalProject_Hospital_.FormAdd
 
     public partial class Doctor : Form
     {
-        private static string connectionString = "Data Source=DESKTOP-DS0DC6P\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
+        private static string connectionString = "Data Source=DESKTOP-7ODK8A5\\SQLEXPRESS;Initial Catalog=HospitalVersion2;Integrated Security=SSPI;Connection Timeout=30";
         SqlConnection sqlConnection = new SqlConnection(connectionString);
         private static string query;
         private ResponsiveForm.MessagePopUp  addMessagePopUp;

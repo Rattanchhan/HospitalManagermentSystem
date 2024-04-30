@@ -212,5 +212,10 @@ namespace FinalProject_Hospital_.ResponsiveForm
             });
             visualForm.Show();
         }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
