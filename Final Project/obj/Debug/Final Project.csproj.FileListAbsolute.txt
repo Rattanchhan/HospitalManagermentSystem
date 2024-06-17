@@ -1,0 +1,221 @@
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.LoginForm.resources
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.ResetForm.resources
+C:\Users\Rattana\Desktop\Assignment(ISAD)\Final Project\Final Project\obj\Debug\Final_Project.main.DoctorForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.LoginForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.ResetForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.MessageAdd.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.MessageDelete.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.RoomForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.PatientForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.LabReportForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.InPatientForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.OutPatientForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.DoctorMainForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.InPatientBillForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.OutPatientBillForm.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Buffers.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Memory.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Json.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Buffers.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Memory.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Json.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Pr.B69720BE.Up2Date
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.LoginMessage.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.Receipt.resources
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\EnvDTE.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\stdole.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Report.ReportList.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Buffers.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Memory.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Json.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\EnvDTE.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\stdole.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Buffers.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Memory.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Text.Json.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.LoginForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.loginPage.ResetForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.DoctorMainForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.InPatientBillForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.InPatientForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.LabReportForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.OutPatientBillForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.OutPatientForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.PatientForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.Receipt.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.main.RoomForm.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.LoginMessage.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.MessageAdd.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Message.MessageDelete.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final_Project.Report.ReportList.resources
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Pr.B69720BE.Up2Date
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Rattana\Desktop\Rupp\C#Programming(Final Project)\Final Project\Final Project\obj\Debug\Final Project.pdb

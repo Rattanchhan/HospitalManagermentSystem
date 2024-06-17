@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\report\\reportlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\report\\reportlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\report\\reportlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\report\\reportlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\report\\inpatientbillreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\report\\inpatientbillreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\report\\doctorreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\report\\doctorreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\messagedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\messagedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\messagedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\messagedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\messageadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\messageadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\messageadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\messageadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\loginmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\loginmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\message\\loginmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\message\\loginmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\main\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\main\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\main\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\main\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|c:\\users\\rattana\\desktop\\rupp\\c#programming(final project)\\hospital managerment system project\\final project\\main\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59AE5E45-57F0-4D15-AB42-8440BA96422D}|Final Project\\Final Project.csproj|solutionrelative:final project\\main\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportList.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\ReportList.cs",
+              "RelativeDocumentMoniker": "Final Project\\Report\\ReportList.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\ReportList.cs",
+              "RelativeToolTip": "Final Project\\Report\\ReportList.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:41:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\ReportList.cs",
+              "RelativeDocumentMoniker": "Final Project\\Report\\ReportList.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\ReportList.cs [Design]",
+              "RelativeToolTip": "Final Project\\Report\\ReportList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:41:28.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InPatientBillReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\InPatientBillReport.rdlc",
+              "RelativeDocumentMoniker": "Final Project\\Report\\InPatientBillReport.rdlc",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\InPatientBillReport.rdlc [Design]",
+              "RelativeToolTip": "Final Project\\Report\\InPatientBillReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-17T11:41:22.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\DoctorReport.rdlc",
+              "RelativeDocumentMoniker": "Final Project\\Report\\DoctorReport.rdlc",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Report\\DoctorReport.rdlc [Design]",
+              "RelativeToolTip": "Final Project\\Report\\DoctorReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-17T11:41:16.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageDelete.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageDelete.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\MessageDelete.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageDelete.cs",
+              "RelativeToolTip": "Final Project\\Message\\MessageDelete.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:50.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageDelete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageDelete.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\MessageDelete.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageDelete.cs [Design]",
+              "RelativeToolTip": "Final Project\\Message\\MessageDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:47.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageAdd.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\MessageAdd.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageAdd.cs",
+              "RelativeToolTip": "Final Project\\Message\\MessageAdd.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageAdd.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\MessageAdd.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\MessageAdd.cs [Design]",
+              "RelativeToolTip": "Final Project\\Message\\MessageAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:39.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\LoginMessage.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\LoginMessage.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\LoginMessage.cs",
+              "RelativeToolTip": "Final Project\\Message\\LoginMessage.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginMessage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\LoginMessage.cs",
+              "RelativeDocumentMoniker": "Final Project\\Message\\LoginMessage.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\Message\\LoginMessage.cs [Design]",
+              "RelativeToolTip": "Final Project\\Message\\LoginMessage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:31.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\RoomForm.cs",
+              "RelativeDocumentMoniker": "Final Project\\main\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\RoomForm.cs",
+              "RelativeToolTip": "Final Project\\main\\RoomForm.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:22.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\RoomForm.cs",
+              "RelativeDocumentMoniker": "Final Project\\main\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\RoomForm.cs [Design]",
+              "RelativeToolTip": "Final Project\\main\\RoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:19.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\Receipt.cs",
+              "RelativeDocumentMoniker": "Final Project\\main\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Rattana\\Desktop\\Rupp\\C#Programming(Final Project)\\Hospital Managerment System Project\\Final Project\\main\\Receipt.cs [Design]",
+              "RelativeToolTip": "Final Project\\main\\Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:39:49.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
